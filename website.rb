@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-require 'Haml'
+require 'haml'
 
 get '/' do 
 	haml :index
